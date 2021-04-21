@@ -1,0 +1,28 @@
+{
+  "name": "merchant_demo_nodejs",
+  "version": "1.0.0",
+  "description": "## 服务和签名方法",
+  "main": "merchant_demo_app.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "jsrsasign": "^10.2.0",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dcbox0/merchant_demo_nodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dcbox0/merchant_demo_nodejs/issues"
+  },
+  "homepage": "https://github.com/dcbox0/merchant_demo_nodejs#readme"
+}
